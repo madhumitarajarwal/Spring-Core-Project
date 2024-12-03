@@ -1,8 +1,9 @@
 package com.rays.bean;
 
 public class Person {
-	  private String login=null;
-	   private String password=null;
+	  
+	   private String login;
+	   private String password;
 	   
 	   private Person() {
 		   

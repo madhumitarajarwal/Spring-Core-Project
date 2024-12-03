@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 
 public class Payment {
 	
-   @Value(value="100")
+   @Value(value="1000")
    double balance=0;
     
    public double getBalance() {
